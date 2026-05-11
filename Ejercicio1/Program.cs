@@ -1,12 +1,4 @@
-﻿/*Temperaturas de la Semana
-Una estación meteorológica necesita registrar las temperaturas máximas de 7 días.
-
-El programa debe:
-Solicitar al usuario las 7 temperaturas.
-Guardar los datos en un arreglo unidimensional.
-Mostrar todas las temperaturas registradas.
-Calcular el promedio semanal.
-Indicar la temperatura más alta y la más baja.*/
+﻿
 
 using System;
 double promedio = 0;
